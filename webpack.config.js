@@ -1,5 +1,6 @@
 
 module.exports = {
+  contest: '__dirname' + './client'
   entry: './client/app/app.js',
   output: {
     path: __dirname,
